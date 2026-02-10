@@ -1,6 +1,4 @@
-# HEAL-KDD26-CODE
-
-Implementation of HEAL: Hyperbolic Graph Data Augmentation for Few-Shot Learning.
+# Hyperbolic Encoding with Geometry-Aligned Residual Latent Diffusion for Few-Shot Graph Classification (HEAL)
 
 ## Usage
 
